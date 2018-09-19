@@ -1,0 +1,7 @@
+{
+  "name": "ethereum-ownable",
+  "version": "0.1.0",
+  "dependencies": {
+      "truffle-hdwallet-provider": "0.0.5"
+  }
+}
