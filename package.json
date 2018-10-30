@@ -1,7 +1,7 @@
 {
-  "name": "ethereum-misc",
+  "name": "mmarinovic-ethereumisc",
   "version": "1.0.0",
-  "description": "",
+  "description": "Useful contracts for ethereum development",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
